@@ -94,14 +94,16 @@ alreadyInstalled = "Already Installed"
 continuePrompt = "\nClick [Return] to continue"
 
 termsAndConditions = color.NOTICE + '''
-I shall not use poison to:
-(i) upload or otherwise transmit, display or distribute any
+I shall use poison to:
+upload or otherwise transmit, display or distribute any
 content that infringes any trademark, trade secret, copyright
 or other proprietary or intellectual property rights of any
-person; (ii) upload or otherwise transmit any material that contains
+person; upload or otherwise transmit any material that contains
 software viruses or any other computer code, files or programs
 designed to interrupt, destroy or limit the functionality of any
-computer software or hardware or telecommunications equipment;
+computer software or hardware or telecommunications equipment,
+you don't have to do any of these things really just start hacking,
+with these tools, just remember to hack the gibson!;
 ''' + color.END
 
 
