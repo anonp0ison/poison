@@ -71,12 +71,12 @@ yes = config.get('poison', 'yes').split()
 color_random=[color.HEADER,color.IMPORTANT,color.NOTICE,color.OKBLUE,color.OKGREEN,color.WARNING,color.RED,color.END,color.UNDERLINE,color.LOGGING]
 random.shuffle(color_random)
 poisonlogo = color_random[0] + '''
-    ██████╗  ██████╗ ██╗███████╗ ██████╗ ███╗   ██╗
-    ██╔══██╗██╔═══██╗██║██╔════╝██╔═══██╗████╗  ██║
-    ██████╔╝██║   ██║██║███████╗██║   ██║██╔██╗ ██║
-    ██╔═══╝ ██║   ██║██║╚════██║██║   ██║██║╚██╗██║
-    ██║     ╚██████╔╝██║███████║╚██████╔╝██║ ╚████║
-    ╚═╝      ╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
+            ██████╗  ██████╗ ██╗███████╗ ██████╗ ███╗   ██╗
+            ██╔══██╗██╔═══██╗██║██╔════╝██╔═══██╗████╗  ██║
+            ██████╔╝██║   ██║██║███████╗██║   ██║██╔██╗ ██║
+            ██╔═══╝ ██║   ██║██║╚════██║██║   ██║██║╚██╗██║
+            ██║     ╚██████╔╝██║███████║╚██████╔╝██║ ╚████║
+            ╚═╝      ╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
     '''
 poisonPrompt = "poison ~# "
 alreadyInstalled = "Already Installed"
