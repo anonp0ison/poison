@@ -92,47 +92,6 @@ A Penetration Testing Framework, you will have every script that a hacker needs
 - POET
 - Weeman
 
-# Installation
-
-## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
-
-```bash
-bash <(wget -qO- https://git.io/vAtmB)
-```
-
-Follow This Video [HackerSploit](https://www.youtube.com/watch?v=t3uYpMrK2EU)
-
-## Installation
-
-Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
-
-```bash
-bash <(wget -qO- https://git.io/vAtmB)
-```
-
-## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
-
-Download Linux Bash Like [Cygwin](https://www.cygwin.com/)
-
-Download [Python](https://www.python.org/downloads/release/python-2714/)
-
-Or Use Free Ubuntu VPS [c9.io](https://c9.io/)
-
-## [Docker](https://en.wikipedia.org/wiki/Docker_(software)) Usage ![docker logo](https://png.icons8.com/color/50/000000/docker.png)
-
-### Dependecies
-
-[Docker](https://www.docker.com/)
-
-[Docker-compose](https://docs.docker.com/compose/install/)
-
-```bash
-docker-compose build
-docker-compose up -d
-docker-compose exec poison poison
-docker-compose down # destroys instance
-```
-
 # Contributors
 
 [anonp0ison](https://github.com/anonp0ison)
