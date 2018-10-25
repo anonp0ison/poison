@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "poison";
+    src: url("../fonts/poison.ttf");
+}
+
+.robot-text {
+    font-family: 'poison', 'Lucida Console';
+    color: red;
+}
+
+a:hover {
+    color: OrangeRed;
+}
+
+.robot-logo {
+    font-family: 'poison', 'Lucida Console';
+    color: red;
+    font-size: 25px;
+}
+
+.robot-excerpt {
+    font-size: 12px;
+}
+
+.robot-card {
+    height: 125px;
+}
+
+.robot-hr {
+    width: 25%;
+    border-top: 3px solid red;
+}
+
+.robot-btn {
+    color: white;
+    background-color: red;
+}
